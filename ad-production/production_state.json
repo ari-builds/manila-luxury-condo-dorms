@@ -1,0 +1,19 @@
+{
+  "brand": "Manila Luxury Condo Dorms",
+  "duration_target": 28,
+  "format": "9:16, 1080p",
+  "video_jobs": [
+    {"part": 1, "job_id": "bf745917-2df6-4f95-98b0-f8f3dc420d13", "purpose": "Pool hook, lobby, corridor, main unit reveal", "duration": 10},
+    {"part": 2, "job_id": "8479978e-cf7f-48c1-996a-bb8bc99ee18a", "purpose": "Built-in detail, bathroom, window approach", "duration": 8},
+    {"part": 3, "job_id": "487f2966-7cd0-4d7f-900d-c496b7866cd9", "purpose": "Campus outlook, gate_wide, gate_street, high-floor panorama", "duration": 10}
+  ],
+  "music_job": "d29676ca-e39a-4848-bc31-a302974dd8af",
+  "user_landmark_identification": {
+    "gate_street": "Miriam College",
+    "gate_wide": "Ateneo Gate 3"
+  },
+  "reference_library": "64 source gallery videos plus 17 uploads, all reviewed; eight uploads byte-identical, remaining uploads reviewed separately.",
+  "restrictions": ["No people or human traces indoors", "No invented property amenities or geography", "No unsupported claims", "One final ad only", "Do not regenerate automatically"],
+  "editorial_text": ["Manila Luxury Condo Dorms", "Inquire to learn more"],
+  "quality_control_pending": true
+}

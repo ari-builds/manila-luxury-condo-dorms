@@ -1,0 +1,135 @@
+[
+  {
+    "batch": 1,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch01.mp4",
+    "sources": [
+      "IMG_0505(1).mp4",
+      "IMG_0506.mp4",
+      "IMG_0507(1).mp4",
+      "IMG_0508(1).mp4",
+      "IMG_0509(1).mp4",
+      "IMG_0510(1).mp4",
+      "IMG_0511(1).mp4",
+      "IMG_0512.mp4"
+    ]
+  },
+  {
+    "batch": 2,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch02.mp4",
+    "sources": [
+      "IMG_0513(1).mp4",
+      "IMG_0514.mp4",
+      "IMG_0515.mp4",
+      "IMG_0516.mp4",
+      "IMG_0517.mp4",
+      "IMG_0518(1).mp4",
+      "IMG_0519.mp4",
+      "IMG_0520.mp4"
+    ]
+  },
+  {
+    "batch": 3,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch03.mp4",
+    "sources": [
+      "IMG_0521.mp4",
+      "IMG_0522.mp4",
+      "IMG_0523(1).mp4",
+      "IMG_0524.mp4",
+      "IMG_0525.mp4",
+      "IMG_0526.mp4",
+      "IMG_0527.mp4",
+      "IMG_0528.mp4"
+    ]
+  },
+  {
+    "batch": 4,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch04.mp4",
+    "sources": [
+      "IMG_0529.mp4",
+      "IMG_0533.mp4",
+      "IMG_0535.mp4",
+      "IMG_0536.mp4",
+      "IMG_0538.mp4",
+      "IMG_0539.mp4",
+      "IMG_0540.mp4",
+      "IMG_0542(1).mp4"
+    ]
+  },
+  {
+    "batch": 5,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch05.mp4",
+    "sources": [
+      "IMG_0543(1).mp4",
+      "IMG_0544(1).mp4",
+      "IMG_0545.mp4",
+      "IMG_0546(1).mp4",
+      "IMG_0547.mp4",
+      "IMG_0548(1).mp4",
+      "IMG_0549(1).mp4",
+      "IMG_0550(1).mp4"
+    ]
+  },
+  {
+    "batch": 6,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch06.mp4",
+    "sources": [
+      "IMG_0551(1).mp4",
+      "IMG_0552.mp4",
+      "IMG_0553.mp4",
+      "IMG_0554.mp4",
+      "IMG_0555.mp4",
+      "IMG_0556.mp4",
+      "IMG_0557.mp4",
+      "IMG_0558.mp4"
+    ]
+  },
+  {
+    "batch": 7,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch07.mp4",
+    "sources": [
+      "IMG_0569.mp4",
+      "IMG_0572.mp4",
+      "IMG_0574.mp4",
+      "IMG_0575.mp4",
+      "IMG_0576.mp4",
+      "IMG_0577.mp4",
+      "IMG_0583.mp4",
+      "IMG_0586.mp4"
+    ]
+  },
+  {
+    "batch": 8,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch08.mp4",
+    "sources": [
+      "IMG_0587.mp4",
+      "IMG_0591.mp4",
+      "IMG_0592.mp4",
+      "IMG_0593.mp4",
+      "IMG_0595.mp4",
+      "IMG_0596.mp4",
+      "IMG_0597.mp4",
+      "IMG_8766.mp4"
+    ]
+  },
+  {
+    "batch": 9,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch09.mp4",
+    "sources": [
+      "upload_07.mp4",
+      "upload_08.mp4",
+      "upload_09.mp4",
+      "upload_12.mp4",
+      "upload_13.mp4",
+      "upload_14.mp4",
+      "upload_15.mp4",
+      "upload_16.mp4"
+    ]
+  },
+  {
+    "batch": 10,
+    "path": "/home/user/f9d86b41-1a1f-4dce-9ac6-9f680714a6a0/manila/review/batch10.mp4",
+    "sources": [
+      "upload_17.mp4"
+    ]
+  }
+]

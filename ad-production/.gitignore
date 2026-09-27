@@ -1,0 +1,10 @@
+# Python virtualenv / caches — never commit
+caption_env/
+**/__pycache__/
+**/.cache/
+**/.pytest_cache/
+
+# Raw source library. The 64 gallery clips already live in this repo under videos/,
+# and the 17 chat uploads were re-encoded copies of those same clips, so the
+# originals are NOT duplicated here. Local copies stay in manila/sources/.
+sources/

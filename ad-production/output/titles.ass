@@ -1,0 +1,21 @@
+[Script Info]
+Title: Manila Luxury Condo Dorms — editorial branding
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Brand,Liberation Serif,74,&H00F6F8FA,&H00F6F8FA,&H80302620,&H80302620,0,0,0,0,100,100,0,0,1,0.8,1.8,8,100,100,180,1
+Style: Small,Liberation Sans,31,&H00F6F8FA,&H00F6F8FA,&H60302620,&H70302620,0,0,0,0,100,100,2,0,1,0.7,1.5,8,100,100,180,1
+Style: CTA,Liberation Sans,34,&H00F6F8FA,&H00F6F8FA,&H70302620,&H80302620,0,0,0,0,100,100,0.6,0,1,0.8,1.8,8,100,100,180,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:01.85,Small,,0,0,0,,{\an8\pos(540,188)\fad(180,160)}MANILA LUXURY
+Dialogue: 0,0:00:00.15,0:00:01.85,Brand,,0,0,0,,{\an8\pos(540,232)\fs52\fad(180,160)}Condo Dorms
+Dialogue: 0,0:00:23.55,0:00:26.21,Brand,,0,0,0,,{\an8\pos(540,210)\fad(180,0)}Manila Luxury
+Dialogue: 0,0:00:23.55,0:00:26.21,Brand,,0,0,0,,{\an8\pos(540,295)\fad(180,0)}Condo Dorms
+Dialogue: 0,0:00:23.75,0:00:26.21,CTA,,0,0,0,,{\an8\pos(540,410)\fad(220,0)}Inquire to learn more
